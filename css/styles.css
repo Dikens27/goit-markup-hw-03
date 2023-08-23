@@ -52,8 +52,7 @@ button {
 
 /* Header */
 .header {
-    padding: 24px 0;
-    border-bottom: 1px solid #e7e9fc
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .header .container {
@@ -76,7 +75,6 @@ button {
     text-transform: uppercase;
     color: #4D5AE5;
     margin-right: 76px;
-    padding: 24px 0;
 }
 
 .header-logo-span {
@@ -86,7 +84,6 @@ button {
 .header-home-nav-list {
     display: flex;
     gap: 40px;
-    padding: 24px 0;
 }
 
 .header-home-nav-link {
@@ -96,6 +93,7 @@ button {
     line-height: 1.5;
     letter-spacing: 0.02em;
     position: relative;
+    padding: 24px 0;
 }
 
 .header-home-nav-link::after {
@@ -157,6 +155,7 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     max-width: 496px;
+    margin: 0 auto 48px;
 }
 
 .hero-button {
@@ -171,7 +170,9 @@ button {
     border: none;
     background-color:#4D5AE5;
     padding: 16px 32px;
-    min-width: 169px
+    min-width: 169px;
+    margin: 0 auto;
+    
 }
 
 .hero-button:hover,
