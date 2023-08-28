@@ -74,7 +74,6 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
-    margin-right: 76px;
 }
 
 .header-logo-span {
@@ -264,7 +263,6 @@ button {
 /* Our Portfolio */
 .our-portfolio {
     padding: 120px 0;
-    text-align: center;
 }
 
 .our-portfolio-title {
